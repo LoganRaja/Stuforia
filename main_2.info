@@ -1,0 +1,1247 @@
+<<<<<<< HEAD
+{
+    "details": [
+{
+"bankname":"Allahabad Bank",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security",
+=======
+{
+    "details": [
+{
+"bankname":"Allahabad Bank",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security",
+>>>>>>> origin/master
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+<<<<<<< HEAD
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Andhra Bank",
+"checklist":"Application form	\n
+Identity and address proof of borrower, joint borrower & Co-obligants	\n
+Passport size photographs borrower, joint borrower & Co-obligants	\n
+Proof of date of birth of the borrower	\n
+Marks memo from 10th onwards	\n
+Bonafide Certificate	\n
+Certificate of domicile	\n
+Study Certificate	\n
+Rank card	\n
+Proof of allotment of seat	\n
+Fee particulars from college/ University	\n
+Verification of accreditation of the college / University by our bank	\n
+Letter of informing allotment or other wise of hostel accommodation and charges	\n
+Proof of availability of scholarship",
+"rateofinterest":"For students applying under the Management Quota Loan up to and above Rs 4 lakh Base Rate + 3.00%	\n
+Up to Rs. 7.50 Lakhs Base Rate+2.75%	\n
+Above Rs. 7.50 Lakhs Base Rate+1.50%	\n
+0.50% concession for girl students",
+"studyabroad":"Certified copy of valid passport & Visa	\n
+Letter of offer - Proof of allotment of seat	\n
+Copy of University admission letter- indicating the course duration, fee structure, insurance particulars, cost of study and scholarship if any (form- I 20 in case of USA)	\n
+Estimate for travel, Health Insurance	\n
+Special Power of attorney	\n
+Copy of University admission letter-indicating the course duration, fee structure, insurance particulars, cost of study and scholarship if any ((form-I20 in case of education abroad)	\n
+Proof and source of income of parents/ guardians- salary certificate( In case of professional and self employed, business people and others who are tax assesses- copies of tax assessment orders of previous 3 years 	\n
+Photocopies of title deed of properties, NSCs, LIC Policies, Shares & securities etc. as and when collateral security is stipulated",
+"loanforgirls":"",
+"collateralsecurity" : "Certified copy of the title deed indicating title to the property	\n
+Copies of all link documents	\n
+Tax paid receipts	\n
+NIL Encumbrance certificate	\n
+Valuation Report by approved valuer	\n
+Legal opinion and any other document stipulated by Legal advisor/ sanctioning authority 	\n
+Certification of Inspection of security	\n
+Managers certificate for valuation of property	\n
+Legal Audit, wherever applicable	\n
+Undertaking letter to adjust residual amount of loan	\n
+A letter from the applicant declaring that he is not having any similar loan with any other branch of the bank or with any other bank	\n
+Verification report from outsourcing agencies/ branch official	\n
+Credit Investigation/ Due diligence/ Pre-sanction verification Report	\n
+Certification copy of valid passport and visa	\n
+Certified copy of employment offer letter/work permit	\n
+Certified copy of registration obtained by the recruitment agency",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of Baroda",
+"checklist":"Passport Copy/ Voters ID card/ Driving License	\n
+Ration card/ Telephone or Electricity Bill/ Rental Agreement / Passport copy/Trade license /Establishment or Sales Tax certificate	\n
+Students Birth Certificate or 10th Class Passing Certificate",
+"rateofinterest":"Loans up to Rs.4 lakhs: Base Rate + 2.50%	\n
+Loans from Rs.4 lakhs to Rs.7.50 lakhs: Base Rate + 2.50%	\n
+Loans above Rs.7.50 lakhs: Base Rate + 1.75%	\n
+Baroda Education Loan for Vocational Education & Training: Base Rate + 2.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "Bank Statements (latest 6 months bank statement /passbook)	\n
+CA Certified latest ITR along with computation of income, B/S & P&L a/c for the last 2 years.	\n
+Qualification proof of the highest professional degree	\n
+Proof of continuation (Trade license /Establishment /Sales Tax certificate)	\n
+Other Mandatory Documents (Sole Prop. Decl. Or Cert. Copy of Partnership Deed, Cert. Copy of MOA, AOA & Board resolution.)	\n
+Mark sheet of last qualifying examination for school and graduate studies in India.	\n
+Proof of admission to the course.	\n
+Two copies of passport size photographs from borrower / Co-obligant / guarantor	",
+"coapplicantsalaried": "Latest 3 months Bank Statement (where salary/income is credited)	\n
+3 Latest salary slips	\n
+Proof of Continuity current job (Form 16 / Company appointment letter)	\n
+Proof of Qualification Highest Degree (for Professionals / Govt employees)	\n
+Mark sheet of last qualifying examination for school and graduate studies in India.	\n
+Proof of admission to the course.	\n
+Two copies of passport size photographs from borrower / Co-obligant / guarantor	"
+},
+{
+"bankname":"Axis Bank",
+"checklist":"Passport, Voter's ID, driving license or PAN card.	\n
+Bank account statement, electricity bill, telephone bill or house lease agreement.	\n
+Last 6 months' bank statement or passbook where salary or income is credited	\n
+Guarantor form might be asked for.	\n
+Copy of admission letter along with the fees schedule, mark sheets, certificates of S.S.C and H.S.C and degree courses",
+"rateofinterest":"Up to Rs.4 lakhs Base Rate + 7%	\n
+Loans from Rs.4 lakh up to Rs.7.5 lakhs Base Rate + 8%	\n
+Loans greater than Rs.7.5 lakhs Base Rate + 6%	",
+"studyabroad":"",
+"loanforgirls":"Up to Rs.4 lakhs Base Rate + 6.50%	\n
+Loans from Rs.4 lakhs to Rs.7.5 lakhs Base Rate + 7.50%	\n
+Loans greater than 7.5 lakhs Base Rate + 5.50%	",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of India",
+"checklist":"Address proof - Voter ID, Ration Card, Passport etc.	\n
+Identity proof - Voter ID, Passport, PAN Card etc.	\n
+Education Documents – SSC and HSC mark sheets, degree certificates.",
+"rateofinterest":"Up to Rs.7.50 lakhs 3% above the base rate	\n
+Above Rs.7.50 lakhs 2.50% above the base rate",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.5% per annum for limits up to Rs.50,000 and 1% for limits over Rs.50,000	\n
+Loan for Professional courses Concession ranging from 0.5% to 1%	\n
+If interest is serviced during moratorium 1% concession	",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of Maharashtra",
+"checklist":"Identity proof	\n
+Admission letter of college, institute or university (in India or abroad)	\n
+Brochure stating the course fee charged by the institute",
+"rateofinterest":"12.75% for loan amounts of Rs 4 lakhs or below	\n
+12.25% for loan amounts between Rs 4 and Rs 7.50 lakhs",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Canara Bank",
+"checklist":"Mark sheet of the most recent qualifying public exam for school or college in India.	\n
+Proof of admission to the course (Fee receipts, Transfer Certificate, etc.).	\n
+Schedule of expenses for the course (Fee receipts obtained from the institute).	\n
+Two recent passport size photos of the borrower, co-obligant and guarantor.	\n
+Duplicate copy of any national ID card like passport, Voter's ID, Driving License etc.",
+"rateofinterest":"11.50% for loan amounts above Rs 7.50 lakhs	\n
+If the loan you have taken is less than INR 4 lakhs, no interest will be levied.	\n
+For loan sum more than that, 5 percent interest will be levied if you are studying in India and 15 percent if you are going abroad.",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Central Bank of India",
+"checklist":"Address Proof like Utility bills, Ration card, Voter ID	\n
+Identity proof like PAN Card, Voter ID, Passport	\n
+Educational documents like HSC and SSC certificates, mark sheet etc.",
+"rateofinterest":"Male Students Base Rate + 2.00%	\n
+Female, SC, ST & students admitted to IIM/IIT Base Rate + 1.50%	",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"City Union Bank",
+"checklist":"Third party guarantee and immovable security equal to 100% of the loan amount.	\n
+Assignment of future income of the student for payment of installments	\n
+The document should be executed by both the student / and the parent / guardian.	\n
+The security can be in the form of land / building / Govt. securities / Public Sector Bonds / NSCs / KVPs / LIC Policies, Gold, shares / MF units / debentures, bank deposits in the name of the student/parent/guardian or any other third party. If land/bldg is already mortgaged, the unencumbered portion can be taken as security on second charge basis, provided it covers the loan amount. In case of married person, co obligator can be either spouse or parent/parent-in-law	\n
+In case the loan is given for purchase of computers, the same is to be hypothecated to the bank.",
+"rateofinterest":"Male student Up to Rs. 4 lakh 13.75%	\n
+Male student Above Rs. 4 lakh 14.50%	\n
+Female student Up to Rs. 4 lakh 13.25%	\n
+Female student Above Rs. 4 lakh 14.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Corporation Bank",
+"checklist":"Application form	\n
+Identity proof	\n
+College brochure stating the fee structure of the course	\n
+Proof of admission (admission or selection letter)",
+"rateofinterest":"12.10% for loan amounts of Rs 4 lakhs or below	\n
+13.10% for loan amounts of Rs 4 lakhs – 7.50 lakhs	\n
+12.60% for loan amounts above Rs 7.50 lakhs	",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Dena Bank",
+"checklist":"Proof of Identity	\n
+Admission letter of college, institute or university (in India or abroad)	\n
+Brochure detailing the course fee charged by the institute	\n
+Application form",
+"rateofinterest":"Loan amounts of Rs 4 lakhs or below 11.80% p.a. (to be repaid within 3 years)	\n
+Loan amounts above Rs 4 lakhs 11.80% p.a. (to be repaid within 3 years)	",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Dhanalakshmi Bank",
+"checklist":"For studying in foreign countries, the student must be above 18 years of age and should hold Indian citizenship	\n
+The student should also produce documents to prove his result at qualifying examinations such as SAT, TOEFL, GRE, GMAT, AGRE etc	\n
+The duration of the course abroad should be within 3 years",
+"rateofinterest":"With interest subsidy: Base rate + 2 percent, which comes up to 13.50 percent	\n
+Without interest subsidy: Base rate + 3.75 percent, which comes up to 15.25 percent	\n
+The Base rate is 11.50 percent",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Federal Bank",
+"checklist":"Proof of Identity issued by the government: passport, driving license, PAN card, etc.	\n
+Proof of Residence: ration card, electricity bill, lease agreement, etc.	\n
+Offer letter/admission letter from the educational institution	\n
+Basic qualification certificate and marks card	\n
+Proof of fee structure from the educational institute",
+"rateofinterest":"It ranges from Base Rate + 3.25% to Base Rate + 4.90%	\n
+The Base Rate is 10.2% per annum with effect from 16th June 2014.	\n
+Only simple interest is charged during moratorium period",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"HDFC Bank",
+"checklist":"Admission Letter with Fee break-up	\n
+I-20 form for US applicants	\n
+CAS letter for UK applicants	\n
+SSLC, HSC Graduation Mark sheets	\n
+GRE/GMAT/ TOEFL /IELTS Mark sheets	\n
+Last 3 pay slips with date of joining	\n
+6 months' bank statements	\n
+Form 16 for the previous year along with ITR	\n
+Age Proof	\n
+Signature Proof	\n
+Identity Proof	\n
+Residence Proof	\n
+Signature Proof - PAN Card/Passport for signature verification of the applicant and co-applicant	\n
+Duly Filled-in Application Form	\n
+Photograph	\n
+Cedilla's completed signature authentication form	\n
+10th or 12th Mark sheet with signature for students below 21 years",
+"rateofinterest":"Loan Processing Charges* : Up to 1.5% of the sanctioned amount plus applicable any taxes thereon.	\n
+Pre-payment charges : Nil	\n
+No Due Certificate / No Objection Certificate (NOC) : Nil	\n
+Duplicate of No Dues Certificate/NOC : Nil	\n
+Solvency Certificate : Not applicable	\n
+Charges for late payment of EMI* : @ 2 % per month of installment ( MI/PMII)+ applicable taxes thereon	\n
+Credit assessment charges : Not applicable	\n
+Non standard repayment charges : Not applicable	\n
+Cheque or ECS mandate or Direct Debit swapping charges* : Up to Rs.500/- per swap instance plus applicable taxes thereon	\n
+Cheque/ECS/Direct Debit Bouncing Charges* : Rs. 400/- per dishonor of cheque or ECS or Direct Debit return per presentation plus applicable any taxes thereon	\n
+Legal / incidental charges : At actual	\n
+Stamp Duty and other statutory charges : As per applicable laws of the state	\n
+Loan cancellation charges* : 1% of the unveiled sanctioned loan amount + applicable any taxes thereon	\n
+Manual Collection Charges* : Rs. 200/- per visit plus applicable any taxes thereon	\n
+Charges for Updating & Handling Loan Account As Per Customer Request* : Rs. 1,500/- plus applicable any taxes thereon	\n
+Document Storage & Retrieval Charges* : For No Collateral: Rs. 2,000/- plus applicable any taxes thereon	\n
+For Collateral: Rs. 4,000/- plus applicable any taxes thereon",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Indian Overseas Bank",
+"checklist":"Co obligation of parents  together with tangible collateral security .Collateral security in the form of NSC /KVP/ LIC Policy/ Immovable properties/ Bank Deposits in the name of student/Parent/Guardian or any other third party with suitable margin. Wherever the land/ building is already mortgaged the unencumbered portion can be taken as security on second charge basis provided it covers the required loan amount. In case the loan is given for the purchase of computer, the computer has to be hypothecated to the bank.",
+"rateofinterest":"Up to Rs. 4 Lacks 12.25%	\n
+Above Rs. 4 lacks to Rs.7.50 lacks 13.5%	\n
+Above Rs.7.50 lacks 13.25%	\n
+Vocational Courses 12.25%	\n
+Ward of Staff 12%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Jammu and Kashmir Bank",
+"checklist":"Besides the parent(s) executing the documents as     joint borrower(s), collateral security in the form of suitable third party guarantee will be taken. The Bank may, at its discretion, in exceptional cases, waive off third party guarantee if satisfied with the net-worth / means of parent/s who would be executing the document as joint borrower(s).	\n
+The applicant should be a citizen of India	\n
+The applicant should have been selected for a technical or professional course in a recognised college / institution / university in India or abroad.",
+"rateofinterest":"12.25% for loans up to Rs 5 lakhs	\n
+13.25% for loans above Rs 5 lakhs, up to a maximum amount of Rs 10 lakhs	\n
+14.00% for loans above Rs 10 lakhs, up to a maximum amount of Rs 20 lakhs",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Karnataka Bank",
+"checklist":"Above Rs.7.50 lakhs: Collateral security of suitable value or suitable third party guarantee along with the assignment of future income of the student for payment of installments.	\n
+Note: The loan documents should be executed by student and the parent / guardian as joint-borrowers. The security can be in the form of land / building / Govt. securities / Public Sector Bonds/ Units of UTI, NSC, KVP, LIC policy, gold, shares/ debentures, bank deposit in the name of student / parent / guardian or any other third party with suitable margin. Wherever the land / building is already mortgaged, the unencumbered portion can be taken as security on II charge basis provided it covers the required loan amount.	\n
+In case the loan is given for purchase of computer the same has to be hypothecated to the Bank.",
+"rateofinterest":"Up to 7.50 Lacks Base Rate + 3%",
+"studyabroad":"",
+"loanforgirls":"Up to 7.50 Lacks Base Rate +  2.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Karur Vysya Bank",
+"checklist":"Marks sheets/Convocation certificate of the last qualifying exam.	\n
+Proof of admission to the course along with details of expenses involved.	\n
+Bank account statements of all the borrowers and guarantors.	\n
+Passport size photographs, ID and residence proof. PAN details.	\n
+Statement of assets and liabilities of the borrower(s). IT returns statement, Income tax assessment.	\n
+If the course is being undertaken at a foreign university/institution, foreign exchange permit, scholarship details etc.",
+"rateofinterest":"Above 7.50 Lacks (Priority Sector) Base Rate + 3.50%	\n
+Above 7.50 Lacks (Non Priority Sector) Base Rate + 4%",
+"studyabroad":"",
+"loanforgirls":"Above 7.50 Lacks (Priority Sector) Base Rate + 3%	\n
+Above 7.50 Lacks (Non Priority Sector) Base Rate + 3.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Lakshmi Vilas Bank",
+"checklist":"For overseas studies, passport copies, visa, valid proof of admission from the institute, details pertaining to scholarship/assistance is required.	\n
+Form 111 of the parent/guardian /grandparent/student upon request.	\n
+Report on valuation of the property pledged as collateral security.	\n
+Various stamped forms as required by the bank",
+"rateofinterest":"Up to Rs.4 lacks Base Rate + 3.25%	\n
+Loans above 4 lack Base Rate + 4.25%",
+"studyabroad":"",
+"loanforgirls":"Loans above 4 lack Base Rate + 3.75%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Oriental Bank of Commerce",
+"checklist":"Mortgage of immovable property or any tangible security having value equivalent to 100% of loan amount. Co-obligation of parents / guardian. In case of married person, co-obligator can be spouse or the Parent(s) / Parent(s)-in-law.",
+"rateofinterest":"Up to Rs.4 lacks 12.75 %( B.R + 2.50)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Third party Guarantee 13.25 %( B.R + 3.00)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Immovable property or tangible assets 12.00 %( B.R + 1.75)",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Punjab and Sind Bank",
+"checklist":"Parent(s) to be joint borrower(s) 	\n
+Tangible collateral security of suitable value acceptable to bank, along with the assignment of future income of the student for payment of installments",
+"rateofinterest":"LOAN UP TO RS. 4 LAKHS BR (10.25%) +3.00% = 13.25%	\n
+LOAN FROM Rs. 4 LAKHS TO Rs. 7 LAKHS BR (10.25%)+3.25% = 13.50%	\n
+LOAN ABOVE Rs. 7.50 LAKHS BR (10.25%)+2.50% = 12.75%",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Punjab National Bank",
+"checklist":"Loan application as per the bank's format	\n
+Passport size photograph	\n
+Address proof	\n
+Proof of age	\n
+Proof of having cleared last qualifying examination.	\n
+Letter of admission to say vocational/ skill development courses.	\n
+Course prospectus mentioning charges/fee pertaining to admission, examinations, hostel etc.	\n
+Details of assets & liabilities of parents/co-applicants	\n
+Any other document/information, depending on the case and purpose of the loan",
+"rateofinterest":"Up to Rs 4 lakh BR + 3.00% BR + 2.50% + Term Premium (TP@0.50%)	\n
+Over Rs 4 lakh & up to Rs 7.50 lakh BR + 4.00% BR + 3.50% + TP	\n
+Over Rs 7.50 lakh BR + 2.00% BR + 2.00%",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Saraswat Bank",
+"checklist":"Duly filled-in application form	\n
+Photo ID and Proof of Residence of the applicant and guarantors	\n
+Admission Letter	\n
+Detailed estimate of the course fees and other expenses	\n
+Fee receipt or any proof of payment	\n
+Passport and Visa Photocopies (for overseas education)	\n
+Income Proofs",
+"rateofinterest":"Saraswat Bank sanctions loans amounting up to Rs 20 lakhs at a floating interest rate of 14.50% per annum fixed interest rate of 14% per annum",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Syndicate Bank",
+"checklist":"Letter of admission	\n
+Duly filled and signed loan application form	\n
+2 recent passport size photographs	\n
+Statement of cost of study	\n
+PAN Card, AADHAR card of student and parent/guardian	\n
+Proof of identity and proof of residence	\n
+IT returns or IT assessment order of previous two years of the co-borrower	\n
+Statement of assets and liabilities of parent/guardian	\n
+Proof of income of parent/guardian",
+"rateofinterest":"Up to Rs.4 lakhs 3.50% above base rate	\n
+Above Rs.4 lakhs and up to Rs.7.5 lakhs 3.75% above base rate	\n
+Above Rs.7.50 lakhs 1.75% above base rate",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"South Indian Bank",
+"checklist":"All students applying for South Indian Bank education loan schemes must be residents of India	\n
+They should provide all education certificates starting from matriculation to their latest qualifications	\n
+Along with these, students must provide results of qualifying entrance examinations held by different educational institutions",
+"rateofinterest":"Loan amount up to Rs. 4 lakh Base rate + 5.80%	\n
+Loan amount more than Rs. 4 lakh Base rate + 6.30%	\n
+Vidyanidhi loan scheme Base rate + 5.20%	\n
+SIB-Excellence up to Rs. 10 lakh Base rate + 1.10%	\n
+SIB-Excellence above Rs. 10 lakh Base rate + 2.10%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Syndicate Bank",
+"checklist":"Photocopy of mark sheet of the applicant's latest qualifying public exam for school or college in India.	\n
+Proof of admission to the course (Fee receipts, Transfer Certificate obtained from the institute).	\n
+Two recent passport size photos of the prospective student, guardian and guarantor.	\n
+Photocopy of any national ID card like passport, Voters ID, Driving License etc of all the student, parent(s) and guarantor.	\n
+Most recent salary slips if you are a salaried person and income proofs like reference from clients, IT papers etc. if you are self-employed, freelancers, professionals, entrepreneurs or agriculturist.",
+"rateofinterest":"Loans up to INR. 4 lakhs, the interest rate is Prime Lending Rate (PLR) minus 1.50 percent.	\n
+Above INR. 4 lakhs, the interest rate is PLR minus one percent.",
+"studyabroad":"Test data 1",
+"loanforgirls":"Girl students and students belonging to SC/ST group are entitled for a deduction of 0.50 percent on the aforementioned rates.	\n
+Girl students under SC/ST group are qualified for an additional rebate of .25 percent on the said rates and together they get a concession of .75 percent.",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"UCO Bank",
+"checklist":"Statement of means of the applicant.	\n
+Two passport size photographs of the applicant.	\n
+Two documents for proof of age and identity. (Any two from the following: Ration card, PAN card, Voter's ID, Driving License, Passport, Office identity card, School leaving certificate, Birth certificate).	\n
+Mark sheet or degree certificate of the last examination passed.	\n
+Letter of admission from the institution or university.	\n
+Proof of admission, scholarship, Identity card, etc., from the institution.	\n
+Schedule of expenses issued by the institution. Brochure of the institution with information about the course, duration, fees, other expenses, hostel facilities and charges, etc.	\n
+Statement of bank account for the last six months, or bank pass book of the applicant and the co-applicant or guarantor.	\n
+Employment verification certificate and last three months' salary slip of co-applicant or guarantor.	\n
+Form 16 and income tax returns or assessment order of co-applicant or guarantor.	\n
+Statement of means (mandatory for co-applicant or guarantor).	\n
+Additional documents may be required as per the UCO Education loan terms & conditions, and the rules and guidelines of UCO Bank.",
+"rateofinterest":"Up to Rs.7.50 lakhs Base rate + 2.50% effective rate 11.2%	\n
+Above Rs.7.50 lakhs Base Rate + 2.25% effective rate 12.2%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Union Bank of India",
+"checklist":"Proof of identity – Passport, PAN Card, Employee Identity card or any other valid proof	\n
+Proof of address - Electricity bill, Telephone bill, Ration card or any other valid proof.	\n
+PAN Card	\n
+Bank statement for the last 12 months	\n
+Admission documents, Admission Letter, Admit Card.	\n
+Schedule of expenses including the fee structure and living expenses.	\n
+Mark sheets for Class X or equivalent onwards.	\n
+3 photographs	\n
+Proof of any out-goes	\n
+Loan repayment statement (If any)	\n
+LIC Policies (If any)	\n
+Any other document asked for in the application form",
+"rateofinterest":"Up to Rs 7.50 lakh 12.25% (fixed)	\n
+Above Rs 7.50 lakh 12.00% (fixed)",
+"studyabroad":"",
+"loanforgirls":"Up to Rs 7.50 lakh 11.75% (fixed)	\n
+Above Rs 7.50 lakh 11.50% (fixed)",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"United Bank of India",
+"checklist":"The applicant should be an Indian citizen.	\n
+The applicant must have obtained admission in any of the aforementioned courses via a formal entrance exam or relevant selection procedure.",
+"rateofinterest":"Up to Rs. 4 lakhs Base Rate + 2% = 12.00%	\n
+Above Rs. 4 lakhs to Rs. 7.50 lakhs Base Rate + 2.75% = 12.75%	\n
+Above Rs. 7.50 lakhs Base Rate + 2% = 12.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Vijaya bank",
+"checklist":"Tangible Collateral security of suitable value of loan or third party guarantee with assignment of future income of the student for payment of installments	\n
+Tangible Collateral security for full value of loan and third party guarantee with assignment of future income of the student for payment of installment",
+"rateofinterest":"Up to Rs.4 lakhs Base Rate + 1.80 = 12.05%	\n
+Rs.4 lakhs and above Base Rate + 2.25 = 12.50%",
+"studyabroad":"Test data 1",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of India",
+"checklist":"Address proof - Voter ID, Ration Card, Passport etc.	\n
+Identity proof - Voter ID, Passport, PAN Card etc.	\n
+Education Documents – SSC and HSC mark sheets, degree certificates.",
+"rateofinterest":"Up to Rs.7.50 lakhs 3% above the base rate	\n
+Above Rs.7.50 lakhs 2.50% above the base rate",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.5% per annum for limits up to Rs.50,000 and 1% for limits over Rs.50,000	\n
+Loan for Professional courses Concession ranging from 0.5% to 1%	\n
+If interest is serviced during moratorium 1% concession",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Canara Bank",
+"checklist":"Mark sheet of the most recent qualifying public exam for school or college in India.	\n
+Proof of admission to the course (Fee receipts, Transfer Certificate, etc.).	\n
+Schedule of expenses for the course (Fee receipts obtained from the institute).	\n
+Two recent passport size photos of the borrower, co-obligant and guarantor.	\n
+Duplicate copy of any national ID card like passport, Voter's ID, Driving License etc.",
+"rateofinterest":"11.50% for loan amounts above Rs 7.50 lakhs	\n
+If the loan you have taken is less than INR 4 lakhs, no interest will be levied.	\n
+For loan sum more than that, 15 percent interest will be levied",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Indian Overseas Bank",
+"checklist":"Co obligation of parents together with tangible collateral security .Collateral security in the form of NSC /KVP/ LIC Policy/ Immovable properties/ Bank Deposits in the name of student/Parent/Guardian or any other third party with suitable margin. Wherever the land/ building is already mortgaged the unencumbered portion can be taken as security on second charge basis provided it covers the required loan amount. In case the loan is given for the purchase of computer, the computer has to be hypothecated to the bank.",
+"rateofinterest":"Up to Rs. 4 Lacks 12.25%	\n
+Above Rs. 4 lacks to Rs.7.50 lacks 13.5%	\n
+Above Rs.7.50 lacks 13.25%	\n
+Vocational Courses 12.25%	\n
+Ward of Staff 12%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Oriental Bank of Commerce",
+"checklist":"Mortgage of immovable property or any tangible security having value equivalent to 100% of loan amount. Co-obligation of parents / guardian. In case of married person, co-obligator can be spouse or the Parent(s) / Parent(s)-in-law.",
+"rateofinterest":"Up to Rs.4 lacks 12.75 %( B.R + 2.50)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Third party Guarantee 13.25 %( B.R + 3.00)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Immovable property or tangible assets 12.00 %( B.R + 1.75)",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Union Bank of India",
+"checklist":"Proof of identity – Passport, PAN Card, Employee Identity card or any other valid proof	\n
+Proof of address - Electricity bill, Telephone bill, Ration card or any other valid proof.	\n
+PAN Card	\n
+Bank statement for the last 12 months	\n
+Admission documents, Admission Letter, Admit Card.	\n
+Schedule of expenses including the fee structure and living expenses.	\n
+Mark sheets for Class X or equivalent onwards.	\n
+3 photographs	\n
+Proof of any out-goes	\n
+Loan repayment statement (If any)	\n
+LIC Policies (If any)	\n
+Any other document asked for in the application form",
+"rateofinterest":"Up to Rs 7.50 lakhs 12.25% (fixed)	\n
+Above Rs 7.50 lakhs 12.00% (fixed)",
+"studyabroad":"",
+"loanforgirls":"Up to Rs 7.50 lakhs 11.75% (fixed)	\n
+Above Rs 7.50 lakhs 11.50% (fixed)",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+}
+]
+=======
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Andhra Bank",
+"checklist":"Application form	\n
+Identity and address proof of borrower, joint borrower & Co-obligants	\n
+Passport size photographs borrower, joint borrower & Co-obligants	\n
+Proof of date of birth of the borrower	\n
+Marks memo from 10th onwards	\n
+Bonafide Certificate	\n
+Certificate of domicile	\n
+Study Certificate	\n
+Rank card	\n
+Proof of allotment of seat	\n
+Fee particulars from college/ University	\n
+Verification of accreditation of the college / University by our bank	\n
+Letter of informing allotment or other wise of hostel accommodation and charges	\n
+Proof of availability of scholarship",
+"rateofinterest":"For students applying under the Management Quota Loan up to and above Rs 4 lakh Base Rate + 3.00%	\n
+Up to Rs. 7.50 Lakhs Base Rate+2.75%	\n
+Above Rs. 7.50 Lakhs Base Rate+1.50%	\n
+0.50% concession for girl students",
+"studyabroad":"Certified copy of valid passport & Visa	\n
+Letter of offer - Proof of allotment of seat	\n
+Copy of University admission letter- indicating the course duration, fee structure, insurance particulars, cost of study and scholarship if any (form- I 20 in case of USA)	\n
+Estimate for travel, Health Insurance	\n
+Special Power of attorney	\n
+Copy of University admission letter-indicating the course duration, fee structure, insurance particulars, cost of study and scholarship if any ((form-I20 in case of education abroad)	\n
+Proof and source of income of parents/ guardians- salary certificate( In case of professional and self employed, business people and others who are tax assesses- copies of tax assessment orders of previous 3 years 	\n
+Photocopies of title deed of properties, NSCs, LIC Policies, Shares & securities etc. as and when collateral security is stipulated",
+"loanforgirls":"",
+"collateralsecurity" : "Certified copy of the title deed indicating title to the property	\n
+Copies of all link documents	\n
+Tax paid receipts	\n
+NIL Encumbrance certificate	\n
+Valuation Report by approved valuer	\n
+Legal opinion and any other document stipulated by Legal advisor/ sanctioning authority 	\n
+Certification of Inspection of security	\n
+Managers certificate for valuation of property	\n
+Legal Audit, wherever applicable	\n
+Undertaking letter to adjust residual amount of loan	\n
+A letter from the applicant declaring that he is not having any similar loan with any other branch of the bank or with any other bank	\n
+Verification report from outsourcing agencies/ branch official	\n
+Credit Investigation/ Due diligence/ Pre-sanction verification Report	\n
+Certification copy of valid passport and visa	\n
+Certified copy of employment offer letter/work permit	\n
+Certified copy of registration obtained by the recruitment agency",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of Baroda",
+"checklist":"Passport Copy/ Voters ID card/ Driving License	\n
+Ration card/ Telephone or Electricity Bill/ Rental Agreement / Passport copy/Trade license /Establishment or Sales Tax certificate	\n
+Students Birth Certificate or 10th Class Passing Certificate",
+"rateofinterest":"Loans up to Rs.4 lakhs: Base Rate + 2.50%	\n
+Loans from Rs.4 lakhs to Rs.7.50 lakhs: Base Rate + 2.50%	\n
+Loans above Rs.7.50 lakhs: Base Rate + 1.75%	\n
+Baroda Education Loan for Vocational Education & Training: Base Rate + 2.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "Bank Statements (latest 6 months bank statement /passbook)	\n
+CA Certified latest ITR along with computation of income, B/S & P&L a/c for the last 2 years.	\n
+Qualification proof of the highest professional degree	\n
+Proof of continuation (Trade license /Establishment /Sales Tax certificate)	\n
+Other Mandatory Documents (Sole Prop. Decl. Or Cert. Copy of Partnership Deed, Cert. Copy of MOA, AOA & Board resolution.)	\n
+Mark sheet of last qualifying examination for school and graduate studies in India.	\n
+Proof of admission to the course.	\n
+Two copies of passport size photographs from borrower / Co-obligant / guarantor	",
+"coapplicantsalaried": "Latest 3 months Bank Statement (where salary/income is credited)	\n
+3 Latest salary slips	\n
+Proof of Continuity current job (Form 16 / Company appointment letter)	\n
+Proof of Qualification Highest Degree (for Professionals / Govt employees)	\n
+Mark sheet of last qualifying examination for school and graduate studies in India.	\n
+Proof of admission to the course.	\n
+Two copies of passport size photographs from borrower / Co-obligant / guarantor	"
+},
+{
+"bankname":"Axis Bank",
+"checklist":"Passport, Voter's ID, driving license or PAN card.	\n
+Bank account statement, electricity bill, telephone bill or house lease agreement.	\n
+Last 6 months' bank statement or passbook where salary or income is credited	\n
+Guarantor form might be asked for.	\n
+Copy of admission letter along with the fees schedule, mark sheets, certificates of S.S.C and H.S.C and degree courses",
+"rateofinterest":"Up to Rs.4 lakhs Base Rate + 7%	\n
+Loans from Rs.4 lakh up to Rs.7.5 lakhs Base Rate + 8%	\n
+Loans greater than Rs.7.5 lakhs Base Rate + 6%	",
+"studyabroad":"",
+"loanforgirls":"Up to Rs.4 lakhs Base Rate + 6.50%	\n
+Loans from Rs.4 lakhs to Rs.7.5 lakhs Base Rate + 7.50%	\n
+Loans greater than 7.5 lakhs Base Rate + 5.50%	",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of India",
+"checklist":"Address proof - Voter ID, Ration Card, Passport etc.	\n
+Identity proof - Voter ID, Passport, PAN Card etc.	\n
+Education Documents – SSC and HSC mark sheets, degree certificates.",
+"rateofinterest":"Up to Rs.7.50 lakhs 3% above the base rate	\n
+Above Rs.7.50 lakhs 2.50% above the base rate",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.5% per annum for limits up to Rs.50,000 and 1% for limits over Rs.50,000	\n
+Loan for Professional courses Concession ranging from 0.5% to 1%	\n
+If interest is serviced during moratorium 1% concession	",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of Maharashtra",
+"checklist":"Identity proof	\n
+Admission letter of college, institute or university (in India or abroad)	\n
+Brochure stating the course fee charged by the institute",
+"rateofinterest":"12.75% for loan amounts of Rs 4 lakhs or below	\n
+12.25% for loan amounts between Rs 4 and Rs 7.50 lakhs",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Canara Bank",
+"checklist":"Mark sheet of the most recent qualifying public exam for school or college in India.	\n
+Proof of admission to the course (Fee receipts, Transfer Certificate, etc.).	\n
+Schedule of expenses for the course (Fee receipts obtained from the institute).	\n
+Two recent passport size photos of the borrower, co-obligant and guarantor.	\n
+Duplicate copy of any national ID card like passport, Voter's ID, Driving License etc.",
+"rateofinterest":"11.50% for loan amounts above Rs 7.50 lakhs	\n
+If the loan you have taken is less than INR 4 lakhs, no interest will be levied.	\n
+For loan sum more than that, 5 percent interest will be levied if you are studying in India and 15 percent if you are going abroad.",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Central Bank of India",
+"checklist":"Address Proof like Utility bills, Ration card, Voter ID	\n
+Identity proof like PAN Card, Voter ID, Passport	\n
+Educational documents like HSC and SSC certificates, mark sheet etc.",
+"rateofinterest":"Male Students Base Rate + 2.00%	\n
+Female, SC, ST & students admitted to IIM/IIT Base Rate + 1.50%	",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"City Union Bank",
+"checklist":"Third party guarantee and immovable security equal to 100% of the loan amount.	\n
+Assignment of future income of the student for payment of installments	\n
+The document should be executed by both the student / and the parent / guardian.	\n
+The security can be in the form of land / building / Govt. securities / Public Sector Bonds / NSCs / KVPs / LIC Policies, Gold, shares / MF units / debentures, bank deposits in the name of the student/parent/guardian or any other third party. If land/bldg is already mortgaged, the unencumbered portion can be taken as security on second charge basis, provided it covers the loan amount. In case of married person, co obligator can be either spouse or parent/parent-in-law	\n
+In case the loan is given for purchase of computers, the same is to be hypothecated to the bank.",
+"rateofinterest":"Male student Up to Rs. 4 lakh 13.75%	\n
+Male student Above Rs. 4 lakh 14.50%	\n
+Female student Up to Rs. 4 lakh 13.25%	\n
+Female student Above Rs. 4 lakh 14.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Corporation Bank",
+"checklist":"Application form	\n
+Identity proof	\n
+College brochure stating the fee structure of the course	\n
+Proof of admission (admission or selection letter)",
+"rateofinterest":"12.10% for loan amounts of Rs 4 lakhs or below	\n
+13.10% for loan amounts of Rs 4 lakhs – 7.50 lakhs	\n
+12.60% for loan amounts above Rs 7.50 lakhs	",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Dena Bank",
+"checklist":"Proof of Identity	\n
+Admission letter of college, institute or university (in India or abroad)	\n
+Brochure detailing the course fee charged by the institute	\n
+Application form",
+"rateofinterest":"Loan amounts of Rs 4 lakhs or below 11.80% p.a. (to be repaid within 3 years)	\n
+Loan amounts above Rs 4 lakhs 11.80% p.a. (to be repaid within 3 years)	",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Dhanalakshmi Bank",
+"checklist":"For studying in foreign countries, the student must be above 18 years of age and should hold Indian citizenship	\n
+The student should also produce documents to prove his result at qualifying examinations such as SAT, TOEFL, GRE, GMAT, AGRE etc	\n
+The duration of the course abroad should be within 3 years",
+"rateofinterest":"With interest subsidy: Base rate + 2 percent, which comes up to 13.50 percent	\n
+Without interest subsidy: Base rate + 3.75 percent, which comes up to 15.25 percent	\n
+The Base rate is 11.50 percent",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Federal Bank",
+"checklist":"Proof of Identity issued by the government: passport, driving license, PAN card, etc.	\n
+Proof of Residence: ration card, electricity bill, lease agreement, etc.	\n
+Offer letter/admission letter from the educational institution	\n
+Basic qualification certificate and marks card	\n
+Proof of fee structure from the educational institute",
+"rateofinterest":"It ranges from Base Rate + 3.25% to Base Rate + 4.90%	\n
+The Base Rate is 10.2% per annum with effect from 16th June 2014.	\n
+Only simple interest is charged during moratorium period",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"HDFC Bank",
+"checklist":"Admission Letter with Fee break-up	\n
+I-20 form for US applicants	\n
+CAS letter for UK applicants	\n
+SSLC, HSC Graduation Mark sheets	\n
+GRE/GMAT/ TOEFL /IELTS Mark sheets	\n
+Last 3 pay slips with date of joining	\n
+6 months' bank statements	\n
+Form 16 for the previous year along with ITR	\n
+Age Proof	\n
+Signature Proof	\n
+Identity Proof	\n
+Residence Proof	\n
+Signature Proof - PAN Card/Passport for signature verification of the applicant and co-applicant	\n
+Duly Filled-in Application Form	\n
+Photograph	\n
+Cedilla's completed signature authentication form	\n
+10th or 12th Mark sheet with signature for students below 21 years",
+"rateofinterest":"Loan Processing Charges* : Up to 1.5% of the sanctioned amount plus applicable any taxes thereon.	\n
+Pre-payment charges : Nil	\n
+No Due Certificate / No Objection Certificate (NOC) : Nil	\n
+Duplicate of No Dues Certificate/NOC : Nil	\n
+Solvency Certificate : Not applicable	\n
+Charges for late payment of EMI* : @ 2 % per month of installment ( MI/PMII)+ applicable taxes thereon	\n
+Credit assessment charges : Not applicable	\n
+Non standard repayment charges : Not applicable	\n
+Cheque or ECS mandate or Direct Debit swapping charges* : Up to Rs.500/- per swap instance plus applicable taxes thereon	\n
+Cheque/ECS/Direct Debit Bouncing Charges* : Rs. 400/- per dishonor of cheque or ECS or Direct Debit return per presentation plus applicable any taxes thereon	\n
+Legal / incidental charges : At actual	\n
+Stamp Duty and other statutory charges : As per applicable laws of the state	\n
+Loan cancellation charges* : 1% of the unveiled sanctioned loan amount + applicable any taxes thereon	\n
+Manual Collection Charges* : Rs. 200/- per visit plus applicable any taxes thereon	\n
+Charges for Updating & Handling Loan Account As Per Customer Request* : Rs. 1,500/- plus applicable any taxes thereon	\n
+Document Storage & Retrieval Charges* : For No Collateral: Rs. 2,000/- plus applicable any taxes thereon	\n
+For Collateral: Rs. 4,000/- plus applicable any taxes thereon",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Indian Overseas Bank",
+"checklist":"Co obligation of parents  together with tangible collateral security .Collateral security in the form of NSC /KVP/ LIC Policy/ Immovable properties/ Bank Deposits in the name of student/Parent/Guardian or any other third party with suitable margin. Wherever the land/ building is already mortgaged the unencumbered portion can be taken as security on second charge basis provided it covers the required loan amount. In case the loan is given for the purchase of computer, the computer has to be hypothecated to the bank.",
+"rateofinterest":"Up to Rs. 4 Lacks 12.25%	\n
+Above Rs. 4 lacks to Rs.7.50 lacks 13.5%	\n
+Above Rs.7.50 lacks 13.25%	\n
+Vocational Courses 12.25%	\n
+Ward of Staff 12%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Jammu and Kashmir Bank",
+"checklist":"Besides the parent(s) executing the documents as     joint borrower(s), collateral security in the form of suitable third party guarantee will be taken. The Bank may, at its discretion, in exceptional cases, waive off third party guarantee if satisfied with the net-worth / means of parent/s who would be executing the document as joint borrower(s).	\n
+The applicant should be a citizen of India	\n
+The applicant should have been selected for a technical or professional course in a recognised college / institution / university in India or abroad.",
+"rateofinterest":"12.25% for loans up to Rs 5 lakhs	\n
+13.25% for loans above Rs 5 lakhs, up to a maximum amount of Rs 10 lakhs	\n
+14.00% for loans above Rs 10 lakhs, up to a maximum amount of Rs 20 lakhs",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Karnataka Bank",
+"checklist":"Above Rs.7.50 lakhs: Collateral security of suitable value or suitable third party guarantee along with the assignment of future income of the student for payment of installments.	\n
+Note: The loan documents should be executed by student and the parent / guardian as joint-borrowers. The security can be in the form of land / building / Govt. securities / Public Sector Bonds/ Units of UTI, NSC, KVP, LIC policy, gold, shares/ debentures, bank deposit in the name of student / parent / guardian or any other third party with suitable margin. Wherever the land / building is already mortgaged, the unencumbered portion can be taken as security on II charge basis provided it covers the required loan amount.	\n
+In case the loan is given for purchase of computer the same has to be hypothecated to the Bank.",
+"rateofinterest":"Up to 7.50 Lacks Base Rate + 3%",
+"studyabroad":"",
+"loanforgirls":"Up to 7.50 Lacks Base Rate +  2.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Karur Vysya Bank",
+"checklist":"Marks sheets/Convocation certificate of the last qualifying exam.	\n
+Proof of admission to the course along with details of expenses involved.	\n
+Bank account statements of all the borrowers and guarantors.	\n
+Passport size photographs, ID and residence proof. PAN details.	\n
+Statement of assets and liabilities of the borrower(s). IT returns statement, Income tax assessment.	\n
+If the course is being undertaken at a foreign university/institution, foreign exchange permit, scholarship details etc.",
+"rateofinterest":"Above 7.50 Lacks (Priority Sector) Base Rate + 3.50%	\n
+Above 7.50 Lacks (Non Priority Sector) Base Rate + 4%",
+"studyabroad":"",
+"loanforgirls":"Above 7.50 Lacks (Priority Sector) Base Rate + 3%	\n
+Above 7.50 Lacks (Non Priority Sector) Base Rate + 3.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Lakshmi Vilas Bank",
+"checklist":"For overseas studies, passport copies, visa, valid proof of admission from the institute, details pertaining to scholarship/assistance is required.	\n
+Form 111 of the parent/guardian /grandparent/student upon request.	\n
+Report on valuation of the property pledged as collateral security.	\n
+Various stamped forms as required by the bank",
+"rateofinterest":"Up to Rs.4 lacks Base Rate + 3.25%	\n
+Loans above 4 lack Base Rate + 4.25%",
+"studyabroad":"",
+"loanforgirls":"Loans above 4 lack Base Rate + 3.75%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Oriental Bank of Commerce",
+"checklist":"Mortgage of immovable property or any tangible security having value equivalent to 100% of loan amount. Co-obligation of parents / guardian. In case of married person, co-obligator can be spouse or the Parent(s) / Parent(s)-in-law.",
+"rateofinterest":"Up to Rs.4 lacks 12.75 %( B.R + 2.50)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Third party Guarantee 13.25 %( B.R + 3.00)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Immovable property or tangible assets 12.00 %( B.R + 1.75)",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Punjab and Sind Bank",
+"checklist":"Parent(s) to be joint borrower(s) 	\n
+Tangible collateral security of suitable value acceptable to bank, along with the assignment of future income of the student for payment of installments",
+"rateofinterest":"LOAN UP TO RS. 4 LAKHS BR (10.25%) +3.00% = 13.25%	\n
+LOAN FROM Rs. 4 LAKHS TO Rs. 7 LAKHS BR (10.25%)+3.25% = 13.50%	\n
+LOAN ABOVE Rs. 7.50 LAKHS BR (10.25%)+2.50% = 12.75%",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Punjab National Bank",
+"checklist":"Loan application as per the bank's format	\n
+Passport size photograph	\n
+Address proof	\n
+Proof of age	\n
+Proof of having cleared last qualifying examination.	\n
+Letter of admission to say vocational/ skill development courses.	\n
+Course prospectus mentioning charges/fee pertaining to admission, examinations, hostel etc.	\n
+Details of assets & liabilities of parents/co-applicants	\n
+Any other document/information, depending on the case and purpose of the loan",
+"rateofinterest":"Up to Rs 4 lakh BR + 3.00% BR + 2.50% + Term Premium (TP@0.50%)	\n
+Over Rs 4 lakh & up to Rs 7.50 lakh BR + 4.00% BR + 3.50% + TP	\n
+Over Rs 7.50 lakh BR + 2.00% BR + 2.00%",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Saraswat Bank",
+"checklist":"Duly filled-in application form	\n
+Photo ID and Proof of Residence of the applicant and guarantors	\n
+Admission Letter	\n
+Detailed estimate of the course fees and other expenses	\n
+Fee receipt or any proof of payment	\n
+Passport and Visa Photocopies (for overseas education)	\n
+Income Proofs",
+"rateofinterest":"Saraswat Bank sanctions loans amounting up to Rs 20 lakhs at a floating interest rate of 14.50% per annum fixed interest rate of 14% per annum",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Syndicate Bank",
+"checklist":"Letter of admission	\n
+Duly filled and signed loan application form	\n
+2 recent passport size photographs	\n
+Statement of cost of study	\n
+PAN Card, AADHAR card of student and parent/guardian	\n
+Proof of identity and proof of residence	\n
+IT returns or IT assessment order of previous two years of the co-borrower	\n
+Statement of assets and liabilities of parent/guardian	\n
+Proof of income of parent/guardian",
+"rateofinterest":"Up to Rs.4 lakhs 3.50% above base rate	\n
+Above Rs.4 lakhs and up to Rs.7.5 lakhs 3.75% above base rate	\n
+Above Rs.7.50 lakhs 1.75% above base rate",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"South Indian Bank",
+"checklist":"All students applying for South Indian Bank education loan schemes must be residents of India	\n
+They should provide all education certificates starting from matriculation to their latest qualifications	\n
+Along with these, students must provide results of qualifying entrance examinations held by different educational institutions",
+"rateofinterest":"Loan amount up to Rs. 4 lakh Base rate + 5.80%	\n
+Loan amount more than Rs. 4 lakh Base rate + 6.30%	\n
+Vidyanidhi loan scheme Base rate + 5.20%	\n
+SIB-Excellence up to Rs. 10 lakh Base rate + 1.10%	\n
+SIB-Excellence above Rs. 10 lakh Base rate + 2.10%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Syndicate Bank",
+"checklist":"Photocopy of mark sheet of the applicant's latest qualifying public exam for school or college in India.	\n
+Proof of admission to the course (Fee receipts, Transfer Certificate obtained from the institute).	\n
+Two recent passport size photos of the prospective student, guardian and guarantor.	\n
+Photocopy of any national ID card like passport, Voters ID, Driving License etc of all the student, parent(s) and guarantor.	\n
+Most recent salary slips if you are a salaried person and income proofs like reference from clients, IT papers etc. if you are self-employed, freelancers, professionals, entrepreneurs or agriculturist.",
+"rateofinterest":"Loans up to INR. 4 lakhs, the interest rate is Prime Lending Rate (PLR) minus 1.50 percent.	\n
+Above INR. 4 lakhs, the interest rate is PLR minus one percent.",
+"studyabroad":"Test data 1",
+"loanforgirls":"Girl students and students belonging to SC/ST group are entitled for a deduction of 0.50 percent on the aforementioned rates.	\n
+Girl students under SC/ST group are qualified for an additional rebate of .25 percent on the said rates and together they get a concession of .75 percent.",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"UCO Bank",
+"checklist":"Statement of means of the applicant.	\n
+Two passport size photographs of the applicant.	\n
+Two documents for proof of age and identity. (Any two from the following: Ration card, PAN card, Voter's ID, Driving License, Passport, Office identity card, School leaving certificate, Birth certificate).	\n
+Mark sheet or degree certificate of the last examination passed.	\n
+Letter of admission from the institution or university.	\n
+Proof of admission, scholarship, Identity card, etc., from the institution.	\n
+Schedule of expenses issued by the institution. Brochure of the institution with information about the course, duration, fees, other expenses, hostel facilities and charges, etc.	\n
+Statement of bank account for the last six months, or bank pass book of the applicant and the co-applicant or guarantor.	\n
+Employment verification certificate and last three months' salary slip of co-applicant or guarantor.	\n
+Form 16 and income tax returns or assessment order of co-applicant or guarantor.	\n
+Statement of means (mandatory for co-applicant or guarantor).	\n
+Additional documents may be required as per the UCO Education loan terms & conditions, and the rules and guidelines of UCO Bank.",
+"rateofinterest":"Up to Rs.7.50 lakhs Base rate + 2.50% effective rate 11.2%	\n
+Above Rs.7.50 lakhs Base Rate + 2.25% effective rate 12.2%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Union Bank of India",
+"checklist":"Proof of identity – Passport, PAN Card, Employee Identity card or any other valid proof	\n
+Proof of address - Electricity bill, Telephone bill, Ration card or any other valid proof.	\n
+PAN Card	\n
+Bank statement for the last 12 months	\n
+Admission documents, Admission Letter, Admit Card.	\n
+Schedule of expenses including the fee structure and living expenses.	\n
+Mark sheets for Class X or equivalent onwards.	\n
+3 photographs	\n
+Proof of any out-goes	\n
+Loan repayment statement (If any)	\n
+LIC Policies (If any)	\n
+Any other document asked for in the application form",
+"rateofinterest":"Up to Rs 7.50 lakh 12.25% (fixed)	\n
+Above Rs 7.50 lakh 12.00% (fixed)",
+"studyabroad":"",
+"loanforgirls":"Up to Rs 7.50 lakh 11.75% (fixed)	\n
+Above Rs 7.50 lakh 11.50% (fixed)",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"United Bank of India",
+"checklist":"The applicant should be an Indian citizen.	\n
+The applicant must have obtained admission in any of the aforementioned courses via a formal entrance exam or relevant selection procedure.",
+"rateofinterest":"Up to Rs. 4 lakhs Base Rate + 2% = 12.00%	\n
+Above Rs. 4 lakhs to Rs. 7.50 lakhs Base Rate + 2.75% = 12.75%	\n
+Above Rs. 7.50 lakhs Base Rate + 2% = 12.00%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Vijaya bank",
+"checklist":"Tangible Collateral security of suitable value of loan or third party guarantee with assignment of future income of the student for payment of installments	\n
+Tangible Collateral security for full value of loan and third party guarantee with assignment of future income of the student for payment of installment",
+"rateofinterest":"Up to Rs.4 lakhs Base Rate + 1.80 = 12.05%	\n
+Rs.4 lakhs and above Base Rate + 2.25 = 12.50%",
+"studyabroad":"Test data 1",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Bank of India",
+"checklist":"Address proof - Voter ID, Ration Card, Passport etc.	\n
+Identity proof - Voter ID, Passport, PAN Card etc.	\n
+Education Documents – SSC and HSC mark sheets, degree certificates.",
+"rateofinterest":"Up to Rs.7.50 lakhs 3% above the base rate	\n
+Above Rs.7.50 lakhs 2.50% above the base rate",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.5% per annum for limits up to Rs.50,000 and 1% for limits over Rs.50,000	\n
+Loan for Professional courses Concession ranging from 0.5% to 1%	\n
+If interest is serviced during moratorium 1% concession",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Canara Bank",
+"checklist":"Mark sheet of the most recent qualifying public exam for school or college in India.	\n
+Proof of admission to the course (Fee receipts, Transfer Certificate, etc.).	\n
+Schedule of expenses for the course (Fee receipts obtained from the institute).	\n
+Two recent passport size photos of the borrower, co-obligant and guarantor.	\n
+Duplicate copy of any national ID card like passport, Voter's ID, Driving License etc.",
+"rateofinterest":"11.50% for loan amounts above Rs 7.50 lakhs	\n
+If the loan you have taken is less than INR 4 lakhs, no interest will be levied.	\n
+For loan sum more than that, 15 percent interest will be levied",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Indian Overseas Bank",
+"checklist":"Co obligation of parents together with tangible collateral security .Collateral security in the form of NSC /KVP/ LIC Policy/ Immovable properties/ Bank Deposits in the name of student/Parent/Guardian or any other third party with suitable margin. Wherever the land/ building is already mortgaged the unencumbered portion can be taken as security on second charge basis provided it covers the required loan amount. In case the loan is given for the purchase of computer, the computer has to be hypothecated to the bank.",
+"rateofinterest":"Up to Rs. 4 Lacks 12.25%	\n
+Above Rs. 4 lacks to Rs.7.50 lacks 13.5%	\n
+Above Rs.7.50 lacks 13.25%	\n
+Vocational Courses 12.25%	\n
+Ward of Staff 12%",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Oriental Bank of Commerce",
+"checklist":"Mortgage of immovable property or any tangible security having value equivalent to 100% of loan amount. Co-obligation of parents / guardian. In case of married person, co-obligator can be spouse or the Parent(s) / Parent(s)-in-law.",
+"rateofinterest":"Up to Rs.4 lacks 12.75 %( B.R + 2.50)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Third party Guarantee 13.25 %( B.R + 3.00)	\n
+Above Rs.4 lacks but not exceeding 7.50 lacks with Immovable property or tangible assets 12.00 %( B.R + 1.75)",
+"studyabroad":"",
+"loanforgirls":"Concession of 0.50%",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},
+{
+"bankname":"Union Bank of India",
+"checklist":"Proof of identity – Passport, PAN Card, Employee Identity card or any other valid proof	\n
+Proof of address - Electricity bill, Telephone bill, Ration card or any other valid proof.	\n
+PAN Card	\n
+Bank statement for the last 12 months	\n
+Admission documents, Admission Letter, Admit Card.	\n
+Schedule of expenses including the fee structure and living expenses.	\n
+Mark sheets for Class X or equivalent onwards.	\n
+3 photographs	\n
+Proof of any out-goes	\n
+Loan repayment statement (If any)	\n
+LIC Policies (If any)	\n
+Any other document asked for in the application form",
+"rateofinterest":"Up to Rs 7.50 lakhs 12.25% (fixed)	\n
+Above Rs 7.50 lakhs 12.00% (fixed)",
+"studyabroad":"",
+"loanforgirls":"Up to Rs 7.50 lakhs 11.75% (fixed)	\n
+Above Rs 7.50 lakhs 11.50% (fixed)",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+}
+]
+>>>>>>> origin/master
+}

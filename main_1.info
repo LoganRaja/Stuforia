@@ -1,0 +1,131 @@
+<<<<<<< HEAD
+{
+    "details": [
+{
+"bankname":"Allahabad Bank",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security",
+=======
+{
+    "details": [
+{
+"bankname":"Allahabad Bank",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security",
+>>>>>>> origin/master
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+<<<<<<< HEAD
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%",
+"studyabroad":"Test data 1",
+"loanforgirls":"Test data 2",
+"collateralsecurity" : "Test data 3",
+"coapplicantselfemployed": "Test data 4",
+"coapplicantsalaried": "Test data 5"
+},{
+"bankname":"Allahabad Bank\n",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security\n",
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%\n",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},{
+"bankname":"Allahabad Bank\n",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security\n",
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%\n",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},{
+"bankname":"Allahabad Bank\n",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security\n",
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%\n",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+}
+]
+=======
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%",
+"studyabroad":"Test data 1",
+"loanforgirls":"Test data 2",
+"collateralsecurity" : "Test data 3",
+"coapplicantselfemployed": "Test data 4",
+"coapplicantsalaried": "Test data 5"
+},{
+"bankname":"Allahabad Bank\n",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security\n",
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%\n",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},{
+"bankname":"Allahabad Bank\n",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security\n",
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%\n",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+},{
+"bankname":"Allahabad Bank\n",
+"checklist":"Assignment of future income\n
+Co-obligation from parents / guardians\n
+Full tangible collateral security\n",
+"rateofinterest":"BR+1.50% 1.00% interest concession, if interest is paid within the study & moratorium period\n
+IIMs, ISBs, XLRI   Rs 20 lakhs Base Rate + 1.50%\n
+IITs, BITS and other premier engineering, management & medical institutions Rs 15 lakh Base Rate + 2.00%\n
+NITs, BITS and other reputed medical, management & engineering institutions Rs 10 lakh Base Rate + 2.50%\n
+Other colleges / universities recognized by UGC / Govt. / AICTE / AIBMS / ICMR etc Rs 10 lakh Base Rate + 3.00%\n",
+"studyabroad":"",
+"loanforgirls":"",
+"collateralsecurity" : "",
+"coapplicantselfemployed": "",
+"coapplicantsalaried": ""
+}
+]
+>>>>>>> origin/master
+}

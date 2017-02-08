@@ -1,0 +1,11 @@
+{
+"version_code": 13,
+"content": "Version 1.8 
+<p>New features:</p>
+<li>Student's Experiences</li>
+<li>Information on Internships</li>
+<li>Added Universities</li>
+<li>• • • • • • • • • • • • • • • • • • • • • </li>
+<li>Chat facility - Coming soon!!</li>
+"
+}
